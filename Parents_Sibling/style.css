@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 1%;
+    height: 88vh;
+    width: 100vh;
+    border: 2px solid black;
+    padding: 1rem;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blueviolet;
+    position: relative;
+
+
+}
+
+#btn{
+    padding: .3rem;
+    border: 2px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+    
+}
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+}
